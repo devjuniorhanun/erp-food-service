@@ -1,0 +1,6 @@
+print("================================")
+print("ERP Food Service")
+print("================================")
+print("Sistema de gerenciamento para estabelecimentos alimentícios")
+print("")
+print("Projeto iniciado com Python.")
